@@ -20,13 +20,13 @@ Patterns for Distribute Data
 
 Replication
 
-Replication (Copying data)--- Keeping a copy of same data on multiple servers that are connected via a network.
+**Replication** (Copying data)--- Keeping a copy of same data on multiple servers that are connected via a network.
 
 ![](https://miro.medium.com/v2/resize:fit:200/1*fqCMuxG46YTjDcJeqo0W3g.jpeg)
 
 Partitioning
 
-Partitioning --- Splitting up a large monolithic database into multiple smaller databases based on data cohesion. e.g. Horizontal (sharding) and Vertical (increase server size) partitioning.
+**Partitioning** --- Splitting up a large monolithic database into multiple smaller databases based on data cohesion. e.g. Horizontal (sharding) and Vertical (increase server size) partitioning.
 
 ![](https://miro.medium.com/v2/resize:fit:200/1*mARssEbh6DcyDegq224tGg.jpeg)
 
@@ -34,7 +34,7 @@ Sharding
 
 > In this blog I will focus more on Sharding (Horizontal Partitioning) Vertical partitioning.
 
-Sharding (Horizontal Partitioning)--- A type of horizontal partitioning that splits large databases into smaller components, which are faster and easier to manage. In other words --- Splitting up a large table of data horizontally i.e. row-wise.
+**Sharding** (Horizontal Partitioning)--- A type of horizontal partitioning that splits large databases into smaller components, which are faster and easier to manage. In other words --- Splitting up a large table of data horizontally i.e. row-wise.
 
 Why to Shard a table?
 =====================
