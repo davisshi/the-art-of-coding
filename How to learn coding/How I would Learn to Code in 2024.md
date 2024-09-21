@@ -1,4 +1,4 @@
-How I would Learn to Code in 2024
+[How I would Learn to Code in 2024](https://medium.com/codex/how-i-would-learn-to-code-in-2024-0770a27959f0)
 =================================
 
 [![Alexander Nguyen](https://miro.medium.com/v2/resize:fill:88:88/1*cwYWYCjbeXNc_pAtTeq_Zg.jpeg)](https://medium.com/@realalexnguyen?source=post_page-----0770a27959f0--------------------------------)
