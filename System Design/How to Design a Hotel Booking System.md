@@ -18,7 +18,7 @@ This is one of the front-end system design questions I will be working on. Stay 
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*xIeqz1WhQw8mlpBtV29FsA.png)
 
-1) Define the functional and non-functional requirements.
+**1. Define the functional and non-functional requirements.**
 ---------------------------------------------------------
 
 *Target audience: front-end / full-stack engineer*
@@ -41,7 +41,7 @@ Re-usable React Components can be the following:
 4.  StarRatingWidget
 5.  MapView
 
-2) Define APIs
+**2. Define APIs**
 --------------
 
 -   `GET /hotels`: View all hotels by preselected location
@@ -59,14 +59,14 @@ APIs Requests and Responses
 
 ![](https://miro.medium.com/v2/resize:fit:1000/1*SlttPbHSpP-v-rylUS71Hg.png)
 
-3) Define Data Model
+**3. Define Data Model**
 --------------------
 
 We can build the models below using relational databases like Postgres.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*RHw1mE7wPnQbzE0Hje-NFg.png)
 
-4\. Define High-Level System (Iteration 1)
+**4. Define High-Level System (Iteration 1)**
 ------------------------------------------
 
 We will build services into microservices. Each microservice calls its database.
@@ -78,7 +78,7 @@ We will build services into microservices. Each microservice calls its database.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*C3ulvuc_c97sJRpY_kVj7g.png)
 
-5) How can we improve and optimize the system?
+**5. How can we improve and optimize the system?**
 ----------------------------------------------
 
 ![](https://miro.medium.com/v2/resize:fit:1000/1*cg-MxpKFISljAjXimrYJ1w.png)
