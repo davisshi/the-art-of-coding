@@ -1,3 +1,3 @@
 ## Lead Reprocess Design for Resilience
 
-<img src='../resources/images/Lead Reprocess Design.jpeg)' width='100%'>
+<img src='../resources/images/Lead Reprocess Design.jpeg' width='100%'>
