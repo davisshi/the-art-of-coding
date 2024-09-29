@@ -85,7 +85,7 @@ Your database setup is crucial for reducing latency because it determines how qu
 
 - **Go faster with in-memory databases:** Tools like Redis or Memcache store frequently accessed data in memory, cutting down on time spent fetching data from disk.
 
-![datamanagementandoptimization](https://ci3.googleusercontent.com/meips/ADKq_NY23UdtjF-VPRlp2SLbS2J0GmEupO9LouzWWAU4Yl_tEajCj94pIWFGevIIa1NGcp2FlVe6lvA0sNyRZcGD5bJda5sdrSlFiw9QWaN-58hHvNi6vlIM0lBqsjn4KX7CyvLUEcpJ--s8feAZJjLIts4IkAOb7ezGHt5-46K6mZqtKsSHk3DrRzuc4K3xbxIuIFo7OeooUkK1uglFP0Bh=s0-d-e1-ft#https://learn.educative.io/hs-fs/hubfs/datamanagementandoptimization.jpg?width=1100&upscale=true&name=datamanagementandoptimization.jpg) |
+![datamanagementandoptimization](https://ci3.googleusercontent.com/meips/ADKq_NY23UdtjF-VPRlp2SLbS2J0GmEupO9LouzWWAU4Yl_tEajCj94pIWFGevIIa1NGcp2FlVe6lvA0sNyRZcGD5bJda5sdrSlFiw9QWaN-58hHvNi6vlIM0lBqsjn4KX7CyvLUEcpJ--s8feAZJjLIts4IkAOb7ezGHt5-46K6mZqtKsSHk3DrRzuc4K3xbxIuIFo7OeooUkK1uglFP0Bh=s0-d-e1-ft#https://learn.educative.io/hs-fs/hubfs/datamanagementandoptimization.jpg?width=1100&upscale=true&name=datamanagementandoptimization.jpg)
 
 *Database sharding (left) and database replication (right)*
 
