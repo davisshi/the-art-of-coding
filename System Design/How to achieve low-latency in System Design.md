@@ -55,7 +55,7 @@ And for real-time apps (like gaming or financial platforms), **event-driven arc
 
 (And nobody's left hanging ... or hungry).
 
-![Screenshot 2024-09-16 at 1.56.24 PM](https://ci3.googleusercontent.com/meips/ADKq_NaFW5ZSsQtKvZ0L9M4u3BCR_SPaId02s_RPx2DR2MmwZ50k4sewNCiylrb6kmk3MPrxN2EeLrqvolCtZoLyUYGwn3-Ka_OGhF7kK9smy6cIp0OciKGh2SsTZjbqlQZRrRtH52zZg9xWjgLLnvdn8vYhow_HSrXOIN6o1ooJiAj8ZGhSpXbBdfEmeVtadPmpKgTNLNaDOY6jBNz2_6SthU6AzuwHpRPc2d1leRH1ecOcgdeiqmpB8kPBUw=s0-d-e1-ft#https://learn.educative.io/hs-fs/hubfs/Screenshot%202024-09-16%20at%201.56.24%20PM.png?width=1120&upscale=true&name=Screenshot%202024-09-16%20at%201.56.24%20PM.png) |
+![Screenshot 2024-09-16 at 1.56.24 PM](https://ci3.googleusercontent.com/meips/ADKq_NaFW5ZSsQtKvZ0L9M4u3BCR_SPaId02s_RPx2DR2MmwZ50k4sewNCiylrb6kmk3MPrxN2EeLrqvolCtZoLyUYGwn3-Ka_OGhF7kK9smy6cIp0OciKGh2SsTZjbqlQZRrRtH52zZg9xWjgLLnvdn8vYhow_HSrXOIN6o1ooJiAj8ZGhSpXbBdfEmeVtadPmpKgTNLNaDOY6jBNz2_6SthU6AzuwHpRPc2d1leRH1ecOcgdeiqmpB8kPBUw=s0-d-e1-ft#https://learn.educative.io/hs-fs/hubfs/Screenshot%202024-09-16%20at%201.56.24%20PM.png?width=1120&upscale=true&name=Screenshot%202024-09-16%20at%201.56.24%20PM.png)
 
 *The difference between a monolithic system (left) and a microservices system (right)*
 
