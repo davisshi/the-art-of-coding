@@ -1,5 +1,6 @@
 -   [Reactor 3 Reference Guide](https://projectreactor.io/docs/core/milestone/reference/aboutDoc.html)
 -   [Introduction to Reactive Programming](https://projectreactor.io/docs/core/milestone/reference/reactiveProgramming.html)
+- [Reactor Core Features](https://projectreactor.io/docs/core/release/reference/index.html#core-features)
 
 [Introduction to Reactive Programming](https://projectreactor.io/docs/core/milestone/reference/reactiveProgramming.html)
 ====================================
