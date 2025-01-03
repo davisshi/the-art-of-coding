@@ -1,4 +1,4 @@
-### System Design Master Template
+### [System Design Master Template](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/system-design-master-template)
 
 System design interviews are unstructured by design. In these interviews, you are asked to take on an open-ended design problem that doesn't have a standard solution.
 
