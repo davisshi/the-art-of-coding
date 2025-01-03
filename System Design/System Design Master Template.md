@@ -19,6 +19,8 @@ System Design Master Template
 
 Here is a video discussing the System Design Master Template:
 
+<p>Here is a video discussing the System Design Master Template:</p></div></div></div></div></div><div class="MuiBox-root css-7e1k6b"><div class="MuiBox-root css-0"><div class="MuiBox-root css-79elbk"><style data-emotion="css vpizmb">.css-vpizmb{overflow:hidden;margin:16px 0px;border-radius:5px;background-color:white;}</style><div class="MuiBox-root css-vpizmb"><style data-emotion="css npsdsa">.css-npsdsa{width:100%;height:500px;}</style><div class="MuiBox-root css-npsdsa"><iframe style="border:none" width="100%" height="100%" src="https://player.vimeo.com/video/1041456700" title="System Design Master Template" allow="fullscreen"></iframe></div><div class="MuiBox-root css-1mxry33"><figcaption>System Design Master Template</figcaption></div></div></div></div></div><div class="MuiBox-root css-7e1k6b"><div class="MuiBox-root css-0"><div class="MuiBox-root css-0"><div class="MuiBox-root css-0"><div class="markdown-content"><p>
+
 System Design Master Template
 
 With this master template in mind, we will discuss the 18 essential system design concepts. Here is a brief description of each:
