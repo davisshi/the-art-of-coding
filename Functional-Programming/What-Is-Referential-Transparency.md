@@ -13,12 +13,12 @@ Written by:[Danut Matei](https://www.baeldung.com/cs/author/danutmatei "Posts by
 
 -   [Object-Oriented Programming](https://www.baeldung.com/cs/tag/oop)
 
-1\. [Introduction](https://www.baeldung.com/cs/referential-transparency#introduction)
+[1. Introduction](https://www.baeldung.com/cs/referential-transparency#introduction)
 -------------------------------------------------------------------------------------
 
 In this tutorial, we'll study a particular property of functions called referential transparency. First, we'll talk about how it applies to multiple programming languages and paradigms. So, we'll also see that it has relevant ramifications on the extent to which the code can be automatically optimized.
 
-2\. [Referential Transparency](https://www.baeldung.com/cs/referential-transparency#referential-transparency)
+[2. Referential Transparency](https://www.baeldung.com/cs/referential-transparency#referential-transparency)
 -------------------------------------------------------------------------------------------------------------
 
 Referential transparency is a property of a function that allows it to be replaced by its equivalent output. In simpler terms, if you call the function a second time with the same arguments, you're guaranteed to get the same returning value.
@@ -58,7 +58,7 @@ algorithm main():
 
 Note that this doesn't prevent us from interacting with user input, we're still able to read the values for a and b. Thus, in the code snippet, the add function is transparent, while the main function isn't.
 
-3\. [Relation to Programming Paradigms](https://www.baeldung.com/cs/referential-transparency#relation-to-programming-paradigms)
+[3. Relation to Programming Paradigms](https://www.baeldung.com/cs/referential-transparency#relation-to-programming-paradigms)
 -------------------------------------------------------------------------------------------------------------------------------
 
 As we've seen, if a function interacts with outside sources of information (stdin, sockets, files), it becomes referentially opaque.
@@ -198,7 +198,7 @@ main = do
 ```
 The main function is the only one that's referentially opaque, all other functions are referentially transparent by design.
 
-4\. [Use Cases](https://www.baeldung.com/cs/referential-transparency#use-cases)
+[4. Use Cases](https://www.baeldung.com/cs/referential-transparency#use-cases)
 --------------------------------------------------------------------------------
 
 Let's take a step back and compare how a referentially transparent function differs from a generic function.
@@ -231,7 +231,7 @@ If the functions in our 5-step pipeline are all referentially transparent, we ca
 
 On the other hand, if some functions are referentially opaque, they can have hidden dependencies. In this situation, we aren't guaranteed that starting a second pipeline on another input won't affect the output of the first pipeline.
 
-5\. [Conclusion](https://www.baeldung.com/cs/referential-transparency#conclusion)
+[5. Conclusion](https://www.baeldung.com/cs/referential-transparency#conclusion)
 ---------------------------------------------------------------------------------
 
 In conclusion, referential transparency is a property of a function that allows it to be replaced by its equivalent output. It's a desirable property for program optimization and is achieved by avoiding the use of a global or shared state, therefore passing all required information as parameters.
