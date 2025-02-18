@@ -2,7 +2,7 @@
 
 Click on icons for more info! 👆
 
-![Best AI tools for developers in 2025.png](images/Best%20AI%20tools%20for%20developers%20in%202025.png)
+![Best AI tools for developers in 2025.png](../resources/images/Best%20AI%20tools%20for%20developers%20in%202025.png)
 
 Artificial intelligence has forever changed the way software is developed. Automated tasks and improved teamwork, fueled by AI, are fundamentally rewriting the software lifecycle.
 
@@ -30,8 +30,8 @@ In this guide, **we first discuss the upcoming AI coding tools, then review the 
 
 The best AI developer tools in 2025 are Aider, Cursor, Windsurf, and Github Copilot.
 
-![AI Developer Tools 1.png](images/AI%20Developer%20Tools%201.png)
-![AI Developer Tools 2.png](images/AI%20Developer%20Tools%202.png)
+![AI Developer Tools 1.png](../resources/images/AI%20Developer%20Tools%201.png)
+![AI Developer Tools 2.png](../resources/images/AI%20Developer%20Tools%202.png)
 
 Recommendation types
 
