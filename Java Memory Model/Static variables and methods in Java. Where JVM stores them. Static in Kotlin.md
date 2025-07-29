@@ -1,6 +1,6 @@
 ![](https://media.licdn.com/dms/image/v2/C4D12AQFOOVrSZfWMpg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1544105759294?e=1759363200&v=beta&t=QvrUZ_WDSFuGP0eVIJzIn9KzRsp2VUzQUWOguglQcwM)
 
-Static variables and methods in Java. Where JVM stores them. Static in Kotlin.
+[Static variables and methods in Java. Where JVM stores them. Static in Kotlin.](https://www.linkedin.com/pulse/static-variables-methods-java-where-jvm-stores-them-kotlin-malisciuc/)
 ==============================================================================
 
 [![Maxim M.](https://media.licdn.com/dms/image/v2/D4D03AQEzsTlTMioc-w/profile-displayphoto-shrink_100_100/B4DZY9tyM2HsAg-/0/1744792135316?e=1756944000&v=beta&t=vd9dz1bCyxO9fRlfMl0hjir3262rFZtsZAmXB9q5Lck)](https://www.linkedin.com/in/maxim-malisciuc/)
