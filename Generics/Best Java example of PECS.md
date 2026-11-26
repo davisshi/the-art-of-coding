@@ -1,4 +1,4 @@
-### [](https://)Here is a classic Java example demonstrating **PECS** (*Producer `Extends`, Consumer `Super`*) with two parameters—one acting as a **consumer** (`? super T`) and the other as a **producer** (`? extends T`):
+### [](https://)[](https://)Here is a classic Java example demonstrating **PECS** (*Producer `Extends`, Consumer `Super`*) with two parameters—one acting as a **consumer** (`? super T`) and the other as a **producer** (`? extends T`):
 
 ```java
 import java.util.ArrayList;
@@ -47,9 +47,7 @@ public class PecsExample {
 * **Second parameter (`List<? extends T> src`) — Producer:** You only *get* items out of `src`. Using `? extends T` lets you pass a `List<Integer>` or `List<Double>` when `T` is `Number`.
 * **Bonus (`Predicate<? super T> filter`):** A `Predicate` is also a consumer of `T` (it consumes `T` to test a condition), so `? super T` makes it even more flexible—for example, a `Predicate<Number>` can filter a `List<Integer>`.
 
-```
-
-```
+---
 
 ### so Consumer (? super T): accepts elements of type T or subtypes of T, correct?
 
