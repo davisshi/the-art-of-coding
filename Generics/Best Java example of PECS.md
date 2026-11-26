@@ -50,3 +50,27 @@ public class PecsExample {
 ```
 
 ```
+
+# so Consumer (? super T): accepts elements of type T or subtypes of T, correct?
+
+**Yes, exact!** When **adding/writing** elements into a `List<? super T>`, you can safely pass an element of type `T` **or any subtype of `T**` (like `Integer` when `T` is `Integer`, or `Integer` when `T` is `Number`).
+
+### One Important Nuance: Reading Back Out (`get`)
+
+While you can **add** `T` and subtypes of `T` into `List<? super T>`, **reading** an element back out only guarantees type `Object`:
+
+```java
+List<? super Integer> consumer = new ArrayList<Number>();
+
+consumer.add(10);          // OK: Integer is T
+// consumer.add(new Object()); // Compile error: Object is not Integer or a subtype of Integer
+
+Object obj = consumer.get(0); // OK: only guaranteed to be Object
+// Integer i = consumer.get(0); // Compile error: could be a Number/Object at runtime
+
+```
+
+### Quick Cheat Sheet
+
+* **Producer (`? extends T`)** → Safe to **read** as `T`; **cannot add** non-`null` elements (except `null`).
+* **Consumer (`? super T`)** → Safe to **add** `T` and **subtypes of `T**`; **reading** only yields `Object`.
