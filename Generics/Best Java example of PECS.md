@@ -1,4 +1,4 @@
-### Here is a classic Java example demonstrating **PECS** (*Producer `Extends`, Consumer `Super`*) with two parameters—one acting as a **consumer** (`? super T`) and the other as a **producer** (`? extends T`):
+### [](https://)Here is a classic Java example demonstrating **PECS** (*Producer `Extends`, Consumer `Super`*) with two parameters—one acting as a **consumer** (`? super T`) and the other as a **producer** (`? extends T`):
 
 ```java
 import java.util.ArrayList;
@@ -51,7 +51,7 @@ public class PecsExample {
 
 ```
 
-# so Consumer (? super T): accepts elements of type T or subtypes of T, correct?
+### so Consumer (? super T): accepts elements of type T or subtypes of T, correct?
 
 **Yes, exact!** When **adding/writing** elements into a `List<? super T>`, you can safely pass an element of type `T` **or any subtype of `T**` (like `Integer` when `T` is `Integer`, or `Integer` when `T` is `Number`).
 
